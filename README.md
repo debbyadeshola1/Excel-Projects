@@ -147,4 +147,4 @@ Fields include:
 
 ## 📷 Dashboard Preview
 
-![Electronic sales dashboard](https://drive.google.com/file/d/1VKlCQL_XvnnetR3bJbtgd_crtgQSQxYK/view?usp=drive_link)
+![Electronic sales dashboard](dashboard.png)
